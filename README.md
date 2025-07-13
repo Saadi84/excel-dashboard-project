@@ -1,2 +1,10 @@
-# excel-dashboard-project
-My first two simple Excel dashboard using Pivot Tables &amp; Macros
+# Excel Dashboard Project
+This is my first Excel dashboard using Pivot Tables, Macros & VBA.  
+Built with 💻 Excel 2016  
+📁 Includes: .xlsx file + dashboard screenshot
+
+## Features:
+- Data cleaning
+- Pivot tables
+- Macro recording
+- Multiple table management
